@@ -17,3 +17,7 @@ Key features of this site include:
 ⚡ Minimal loader animation to improve first impression
 
 Built using HTML, CSS, and JavaScript, this project reflects modern frontend practices with a focus on user experience and interactive presentation, making it suitable for portfolios, dashboards, or landing pages.
+
+
+![image](https://github.com/user-attachments/assets/20c95555-c40e-4100-80bd-d8c2a9b755f6)
+
